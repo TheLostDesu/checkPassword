@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="password">Password</string>
+    <string name="LogIn">Login</string>
+    <string name="check">Проверка</string>
+    <string name="login">Введите Логин</string>
+</resources>
